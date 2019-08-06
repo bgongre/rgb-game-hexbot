@@ -3,8 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
     "gh-pages": "^2.1.0",
     "homepage": "http://bgongre.github.io/rgb-game-hexbot/",
+=======
+>>>>>>> 4d264a35893b6b2cdeba0d9ee3b6743ea2593725
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
@@ -13,9 +16,13 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+<<<<<<< HEAD
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build"
+=======
+    "eject": "react-scripts eject"
+>>>>>>> 4d264a35893b6b2cdeba0d9ee3b6743ea2593725
   },
   "eslintConfig": {
     "extends": "react-app"
